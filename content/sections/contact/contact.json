@@ -1,0 +1,13 @@
+{
+  "name": "Alef Habte",
+  "email": "alef.work1@gmail.com",
+  "description": "feel free to reach out",
+  "image": {
+    "src": "../../images/me.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}

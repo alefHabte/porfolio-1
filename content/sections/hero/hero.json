@@ -1,0 +1,22 @@
+{
+  "intro": "Hello,",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I’m Alef",
+  "subtitle": {
+    "prefix": "The software engineer ",
+    "highlight": "you need",
+    "suffix": "."
+  },
+  "description": "Let's chat",
+  "socialProfiles": {
+    "from": ["LinkedIn","Github", "Mail"],
+    "showIcons": false
+  }
+}

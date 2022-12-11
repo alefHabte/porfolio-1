@@ -1,0 +1,48 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "🕹️ EASY AND QUICK SETUP",
+      "title": "MEZGEBA",
+      "description": "Quickly gain insights.Create and distribute registration forms and surveys with ease, and evaluate results in real time.Make online registration as simple as sharing a photo.Choose registration options, collect photographs (receipts) when individuals register, and quickly design and construct your registration page.Uses clear, responsive data, also has a built-in page to examine and analyze real-time answers.",
+      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "image": {
+        "src": "../../images/Mezgeba.png",
+        "alt": "Quick Setup",
+        "linkTo": "#"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/AlefAlmaw"
+        },
+        {
+          "type": "external",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "⚡Responsive Design",
+      "title": "Dwell Properties",
+      "description": "Dwell Properties is one of the fastest growing, most renowned, and trustworthy residential/commercial property consultants and realtors in Addis Ababa and its neighboring areas.The goal of Dwell Properties is to grow large enough to provide our clients with the highest quality service and the best connections, to provide the uncompromising service, personal attention and professionalism each client requires and deserves.",
+      "tags": ["Custom Sections", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/dwell.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/AlefAlmaw"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Visit on Github",
+    "url": "https://github.com/AlefAlmaw"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "interests": [
+    {
+      "label": "A team player",
+      "image": {
+        "src": "../../images/joystick.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "A problem solver",
+      "image": {
+        "src": "../../images/wrench.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Flexible",
+      "image": {
+        "src": "../../images/flexibile.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "A lifelong learner",
+      "image": {
+        "src": "../../images/learning.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "A judge of my value",
+      "image": {
+        "src": "../../images/gem-stone.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Good at managing time",
+      "image": {
+        "src": "../../images/time.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "A good communicator",
+      "image": {
+        "src": "../../images/chat.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Blazing Fast",
+      "image": {
+        "src": "../../images/high-voltage.png",
+        "alt": ""
+      }
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "+ Load More",
+    "initiallyShownInterests": 5
+  }
+}
